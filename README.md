@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## Hi, Welcome To My Github Profile 👋 👋 👋
 
-### I'm Ömer, im working on Android application developing. I am sharing my projects in here. I usually using java programming language for Android projects.
+### I'm Ömer, im working on web application developing. I am sharing my projects in here. I usually using c# programming language for web projects.
 
 ## Some Coffee ☕ lots of < code />
 
