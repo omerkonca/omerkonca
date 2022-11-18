@@ -55,5 +55,4 @@
 
 
 
-
 [linkedin]: https://www.linkedin.com/in/omerkonca/
