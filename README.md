@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=omerkonca&color=green" alt="aticiadem :: Profile Stats"></a>
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
-<br />
+<br /> 
 
 <br /> 
 
