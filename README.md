@@ -3,7 +3,7 @@
 
 #### I am an active 4rd year student at Fırat University. I love writing code, producing, learning different technologies. I am very good at communicating with people. in my work want to go all the way and be successful.
 
-## Some Coffee ☕ lots of < code />
+## Some Coffee ☕ lots of < code /> 
 
 # Reach out to me 
 <img src="https://komarev.com/ghpvc/?username=omerkonca&color=green" alt="aticiadem :: Profile Stats"></a>
