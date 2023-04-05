@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerkonca&layout=compact&theme=tokyonight" height="180">
   
 </p>
-
+<div  align="center"> <img src="https://github.com/omerkonca/omerkonca/blob/output/github-contribution-grid-snake.svg" /></div>
 
 
 
