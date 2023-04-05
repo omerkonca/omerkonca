@@ -35,6 +35,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omerkonca" alt="omerkonca" />
 </p>
+<div  align="center"> <img src="https://github.com/omerkonca/omerkonca/blob/output/github-contribution-grid-snake.svg" /></div>
 <br />
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
@@ -43,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerkonca&layout=compact&theme=tokyonight" height="180">
   
 </p>
-<div  align="center"> <img src="https://github.com/omerkonca/omerkonca/blob/output/github-contribution-grid-snake.svg" /></div>
+
 
 
 
