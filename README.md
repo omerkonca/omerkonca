@@ -1,7 +1,7 @@
             
 # 💫 About Me:
 Hi, Welcome To My Github Profile 👋 👋 👋<br><br>I am an active 4rd year student at Fırat University. I love writing code, producing, learning different technologies. I am very good at communicating with people. in my work want to go all the way and be successful.<br><br>Some Coffee ☕ lots of < code />
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/omerkoncaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omerkonca) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@omerkonca) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/omerkonca) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/omrkonca) 
