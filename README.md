@@ -1,6 +1,6 @@
                                                                                                                                                                                                                                                                                                                                                                                                                 
 # 💫 About Me:      
-Hi, Welcome To My Github Profile 👋 👋 👋<br><br>I am an active 4rd year student at Fırat University. I love writing code, producing, learning different technologies. I am very good at communicating with people. in my work want to go all the way and be successful.<br><br>Some Coffee ☕ lots of < code />
+Hi, Welcome To My Github Profile 👋 👋 👋<br><br>I am a Software Engineering Master's student specializing in software development, artificial intelligence, and mobile application technologies. While continuing my education at Fırat University, I focus on advanced topics such as medical informatics, computer vision, and generative AI. I have developed mobile projects using Flutter and Firebase and gained experience in AI projects with Python and data science tools. With an entrepreneurial spirit, I aim to bring my own business idea to life. I am open to opportunities where I can contribute to advanced projects or innovative ventures.<br><br>Some Coffee ☕ lots of < code />
   
   
 ## 🌐 Socials:
